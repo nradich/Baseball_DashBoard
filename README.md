@@ -5,7 +5,7 @@
 Data analytics within baseball is one of the fastest growing aspects of professional sports. All components of the game are now thoroughly analyzed by analyst and various metrics. In our group project, we selected some popular aspects of the game in hopes of examining presumed trends surrounding them. 
 
 ### Data Source 
-[Data Source](https://github.com/jldbc/pybaseball): In this project as a data source we used python api pulls recorded statistics from FanGraphs and Baseball Savant.
+[Data Source](https://github.com/jldbc/pybaseball): For this project we used a python api ,PyBaseball, that pulls recorded statistics from FanGraphs and Baseball Savant.
 
 ### Follow along!
 1) Run Create_DB_and_Tables.sql in MySQL Workbench.
